@@ -77,10 +77,6 @@ npm run deploy
 Your app will be live at:  
 👉 [https://vetam2008.github.io/Vue.js-ToDoList](https://vetam2008.github.io/Vue.js-ToDoList)
 
-## 📸 Screenshots
-
-> _(Add screenshots if you'd like, for better presentation)_
-
 ## 📄 License
 
 MIT — Feel free to use, modify, and share!
